@@ -1,0 +1,12 @@
+deu_Latn Немецкий
+eng_Latn Английский
+fra_Latn Французский
+ita_Latn Итальянский
+spa_Latn Испанский
+jpn_Jpan Японский
+zho_Hans Китайский
+por_Latn Португальский
+ces_Latn Чешский
+dan_Latn Датский
+pol_Latn Польский
+tur_Latn Турецкий
